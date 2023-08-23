@@ -21,4 +21,4 @@ Follow these steps to utilize the API for your mobile devices:
 
 ## Note:
 
-The weights utilized for training the above model has not published due to privacy concerns of the subjects in the dataset. One can contact [Juan Tapia Farias](https://scholar.google.es/citations?user=DtZ-bo8AAAAJ&hl=es) for the datset.
+The weights utilized for training the above model has not published due to privacy concerns of the subjects in the dataset. One can contact [Juan Tapia Farias](https://scholar.google.es/citations?user=DtZ-bo8AAAAJ&hl=es) regarding the datset.

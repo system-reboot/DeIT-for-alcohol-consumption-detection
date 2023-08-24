@@ -11,7 +11,7 @@ Follow these steps to utilize the API for your mobile devices:
 3. mkdir build/ && cd build/
 4. cmake -DCMAKE_PREFIX_PATH=<absolute_path_to_libtorch>
 5. make
-6. ./Alcohol-Consumption-Detector <path-to-your-image-file>
+6. ./Alcohol-Consumption-Detector path-to-your-image-file
 
 ## Files:
 
